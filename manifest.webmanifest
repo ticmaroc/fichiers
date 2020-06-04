@@ -2,10 +2,10 @@
 	"name": "Test Débit",
 	"short_name": "Test Débit",
 	"description": "Test de débit ADSL, 3G, 4G, Fibre, Sattelite",
-	"start_url": "https://www.tic-maroc.com/p/test-debit.html?m=1",
+	"start_url": "http://promotions-maroc.blogspot.com/?m=1",
 	"background_color": "#3367D6",
 	"display": "fullscreen",
-	"scope": "https://www.tic-maroc.com/?m=1",
+	"scope": "http://promotions-maroc.blogspot.com/?m=1",
 	"theme_color": "#3367D6",
 	"icons": [{
 			"src": "https://lh3.googleusercontent.com/-87CpHlqqyNQ/XizMoL1xIEI/AAAAAAAAS4Y/O7xEgtR4FYw0tKcEhBSlDg0c-3PrRgBMACLcBGAsYHQ/w192-192-p-k-no-nu/android-chrome-512x512.png",

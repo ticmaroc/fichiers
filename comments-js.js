@@ -22,7 +22,7 @@
             tic_emo = tic_emo.replace(/aurevoir/gi, "<img src='https://s.yimg.com/lq/i/mesg/emoticons7/103.gif' alt='aurevoir' class='comment_emo'/>");
             tic_emo = tic_emo.replace(/bravo/gi, "<img src='https://s.yimg.com/lq/i/mesg/emoticons7/41.gif' alt='bravo' class='comment_emo'/>");
             tic_emo = tic_emo.replace(/<a href="https:\/\/www.blogger.com\/profile.*?>(.*)<\/a>/gi, "$1");
- tic_emo = tic_emo.replace(/<img src="\/\/lh3.googleusercontent.com\/zFdxGE77.*?>/gi, "<svg class='svg-icon-24 avatar-icon'><use xlink:href='\/responsive\/sprite_v1_6.css.svg#ic_person_black_24dp'><\/use><\/svg>");
+ tic_emo = tic_emo.replace(/<img src="\/\/www.blogger.com\/img\/blogger_logo_round_35.*?>/gi, "<svg class='svg-icon-24 avatar-icon'><use xlink:href='\/responsive\/sprite_v1_6.css.svg#ic_person_black_24dp'><\/use><\/svg>");
 tic_emo = tic_emo.replace(/Unknown/gi, "Inconnu");
             tic_emo = tic_emo.replace(/s512/gi, "s36");
             zx.item(i).innerHTML = tic_emo;
